@@ -1,0 +1,22 @@
+[
+    {
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanho": "XS",
+        "cor": "Black",
+        "quantidade": 3
+    }
+    ,
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "S",
+        "cor": "Blue",
+        "quantidade": 5
+    }
+    ,
+    {
+        "nomeProduto": "Mithra Warmup Pant",
+        "tamanho": "34",
+        "cor": "Green",
+        "quantidade": 10
+    }
+]
